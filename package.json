@@ -1,0 +1,10 @@
+{
+  "name": "sesion3-pedidos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sesión 3 de Azure: Functions y Storage",
+  "main": "src/functions/*.js",
+  "dependencies": {
+    "@azure/functions": "~4.16.5"
+  }
+}

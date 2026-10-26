@@ -1,0 +1,2 @@
+Este archivo no es un CSV.
+Si lo subes al contenedor entrada, Event Grid no avisa a la función, porque el filtro solo deja pasar archivos que terminan en .csv.
